@@ -7,3 +7,5 @@ c++
 
 Java
 perl
+Php
+DSA
